@@ -1,0 +1,11 @@
+total 28
+drwxrwxr-x 3 anycat anycat 4096 Apr 19 11:54 .
+drwxrwxr-x 3 anycat anycat 4096 Apr 19 08:20 ..
+-rw-rw-r-- 1 anycat anycat    0 Apr 19 11:54 file2.txt
+-rw-rw-r-- 1 anycat anycat    0 Apr 19 11:54 file.txt
+drwxrwxr-x 8 anycat anycat 4096 Apr 19 08:21 .git
+-rw-rw-r-- 1 anycat anycat   85 Apr 19 08:20 networking
+-rw-rw-r-- 1 anycat anycat 1615 Apr 19 08:20 README.md
+-rwxrwxr-x 1 anycat anycat    0 Apr 19 10:58 shaBang
+-rwxrwxr-x 1 anycat anycat 1121 Apr 19 11:54 shaBang.sh
+-rw-rw-r-- 1 anycat anycat 1531 Apr 19 08:20 todo.txt
