@@ -9,6 +9,13 @@
 9 shell script that displays the number of failed login attempts by IP address and location
 10. shell script to parse a log file and forward a specific value with a timestamp to an output file
 
+
+
+
+
+
+
+
 ENSURE YOU INCLUDE THE FOLLOWING CONCEPTS IN THE SHELL SCRIPTS YOU ARE WRITING
 
 variable definition
@@ -20,6 +27,12 @@ loops (for/do while)
 exist status
 command line arguments
 
+            
+            
+            
+            
+            
+            
                         INTERVIEW QUESTIONS
 
 1. Shell script to reverse a string
